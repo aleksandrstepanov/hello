@@ -1,1 +1,2 @@
-Hello, master!
+Новая строка
+new line
